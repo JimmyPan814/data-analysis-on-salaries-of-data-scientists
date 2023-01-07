@@ -1,1 +1,2 @@
 # data-analysis-on-salaries-of-data-scientists
+In this research, the dataset we select is from Kaggle that collects personal information from people in the data science and machine learning industries. We are going to explore the relationships between salary and gender, resident country, and the number of programming languages, respectively. For resident country, we are only interested in the top six countries that have the highest number of responses in the whole dataset.
